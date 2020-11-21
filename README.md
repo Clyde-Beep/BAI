@@ -18,3 +18,6 @@ Photos
 Safari
 Settings
 Reminders
+
+# TUT
+!(tut)[https://github.com/Clyde-Beep/BAI/blob/main/ezgif-7-34054215b5cf.gif?raw=true]
