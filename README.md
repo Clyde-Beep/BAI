@@ -20,4 +20,4 @@ Settings
 Reminders
 
 # TUT
-![tut](https://cdn.discordapp.com/attachments/759113778775588906/779516818674155520/video0.mp4)
+![Click Me](https://cdn.discordapp.com/attachments/759113778775588906/779516818674155520/video0.mp4)
