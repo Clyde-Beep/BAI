@@ -20,4 +20,4 @@ Settings
 Reminders
 
 # TUT
-![tut](https://github.com/Clyde-Beep/BAI/blob/main/ezgif-7-34054215b5cf.gif?raw=true)
+![tut](https://cdn.discordapp.com/attachments/759113778775588906/779516818674155520/video0.mp4)
